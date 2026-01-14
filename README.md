@@ -17,7 +17,14 @@ This project contains automated tests for verifying bike listings on a web appli
    cd <repository-folder>
    mvn clean install
 
-   Run the TestRunner file in src.test.java.runner Package
+
+
+###  Run the TestRunner file in src.test.java.runner Package
+
+
+### Test Cases -> src.test.java.steps.RoyalBrothersSteps
+
+
 
 
 Results
